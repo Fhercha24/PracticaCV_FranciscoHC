@@ -8,6 +8,16 @@ namespace PracticaCV_FranciscoHC
 {
     internal class Clase_FranciscoHC
     {
+        // Constantes
 
+        // Miembros Privados
+
+        // Constructores
+
+        // Propiedades
+
+        // Métodos Privados
+
+        // Métodos Públicos
     }
 }
